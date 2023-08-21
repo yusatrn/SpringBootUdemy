@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-transaction-demo" />
+        <module name="springboot-docker-demo" />
+        <module name="spring-data-jpa-course (2)" />
+        <module name="springboot-webflux-tutorial" />
+        <module name="learn-spring-boot" />
+        <module name="student-management-system" />
+        <module name="springboot-search-rest-api" />
+        <module name="myfirstwebapp" />
+        <module name="registration-login-system" />
+        <module name="learn-jpa-hibernate" />
+        <module name="learn-spring-framework-01 (1)" />
+        <module name="learn-spring-framework-01 (2)" />
+        <module name="spring-data-jpa-course (1)" />
+        <module name="thymeleaf-tutorial" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="learn-spring-framework-01" target="1.5" />
+      <module name="spring-data-jpa-course" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="learn-jpa-hibernate" options="-parameters" />
+      <module name="learn-spring-boot" options="-parameters" />
+      <module name="learn-spring-framework-01 (1)" options="-parameters" />
+      <module name="learn-spring-framework-01 (2)" options="-parameters" />
+      <module name="myfirstwebapp" options="-parameters" />
+      <module name="registration-login-system" options="-parameters" />
+      <module name="spring-data-jpa-course" options="-parameters" />
+      <module name="spring-data-jpa-course (1)" options="-parameters" />
+      <module name="spring-data-jpa-course (2)" options="-parameters" />
+      <module name="springboot-docker-demo" options="-parameters" />
+      <module name="springboot-search-rest-api" options="-parameters" />
+      <module name="springboot-transaction-demo" options="-parameters" />
+      <module name="springboot-webflux-tutorial" options="-parameters" />
+      <module name="student-management-system" options="-parameters" />
+      <module name="thymeleaf-tutorial" options="-parameters" />
+    </option>
+  </component>
+</project>

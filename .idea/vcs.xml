@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/registration-login-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-first-app/spring-boot-first-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-first-app/springboot-resful-webservices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-first-app/springboot-rest-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-docker-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-search-rest-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-student-management-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-transaction-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-webflux-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thymeleaf-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todo-management/springboot-search-rest-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todo-management/springboot-student-management-system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todo-management/springboot-transaction-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todo-management/thymeleaf-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/todo-management/todo-management" vcs="Git" />
+  </component>
+</project>

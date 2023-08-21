@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/myfirstwebapp/pom.xml" />
+        <option value="$PROJECT_DIR$/todo-management/spring-data-jpa-course/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-spring-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-jpa-hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-spring-framework/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-spring-framework-02/pom.xml" />
+        <option value="$PROJECT_DIR$/thymeleaf-tutorial/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-webflux-tutorial/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-transaction-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-student-management-system/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-search-rest-api/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-docker-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-jpa-course/pom.xml" />
+        <option value="$PROJECT_DIR$/registration-login-system/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="20" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
